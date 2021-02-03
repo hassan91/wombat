@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-gem 'mechanize'
+gem 'mechanize', '>= 2.7.7'
 gem 'activesupport'
 gem 'rest-client'
 
