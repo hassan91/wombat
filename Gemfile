@@ -11,6 +11,6 @@ group :development, :test do
   gem 'jeweler'
   gem 'rspec'
   gem 'vcr'
-  gem 'webmock'
+  gem 'webmock', '>= 3.7.1'
   gem 'coveralls', require: false
 end
